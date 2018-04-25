@@ -1,0 +1,446 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a8feb3d6979b1a594758a279d93c9e83e"><param name="Name" value="_CurrentRotorSpeed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#ad7ac08cd28ff758f89f9706061f3b8b2"><param name="Name" value="_MaxRotorSpeed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a1114cebca6d6fa24638c27d24564f005"><param name="Name" value="_MinRotorSpeed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a7ecc0f18fabb450103f58830d1eb5d41"><param name="Name" value="_Pitch"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a96c533737e4baa83dda46983b4b2d9f7"><param name="Name" value="_Roll"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a8a60a677ea99af4de7166b24cf99fd64"><param name="Name" value="_RotorSpeed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a04dfa91249db9e09ec4c2deb4d86105a"><param name="Name" value="_Spin"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a4b1e21f3563352fd9dce8c8e0ee34a3f"><param name="Name" value="_ThrottleForce"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a7185a0f62972e0693a0633a5209789cf"><param name="Name" value="AI_Speed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a22fa7991924f2715c3377ac1496cf466"><param name="Name" value="AudioCheck"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#ad6ed653255400b78b1cc99081f4f6f94"><param name="Name" value="audioSource"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#aafd0c54d415a323ce2fb1f0f5436a3ba"><param name="Name" value="BackWheelMovement"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#afc362a5b626f78e911be725fe55706e6"><param name="Name" value="backWheelRadius"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#ad8969455a0a18ed1d696e877de1b237f"><param name="Name" value="BackWheelRotation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a608ee932306e300648a72268a94bec45"><param name="Name" value="backWheelRotationSpeed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a718f2496ed2ac15c3c7ba0cc0ef147cf"><param name="Name" value="BackWheels"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_bullet.html"><param name="Name" value="Bullet"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_bullet.html#a6c1f4680918f6fb4f8020a6d5a1cbef5"><param name="Name" value="OnCollisionEnter"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a553a32843bbad22c73ac3ab9dfb2e302"><param name="Name" value="bulletEmiiterLeft"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#ab9b3957d28a9471c642dea883eb895ac"><param name="Name" value="bulletEmitter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#ab9b3957d28a9471c642dea883eb895ac"><param name="Name" value="EnemyAI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player_fire.html#ae2d8c0ad25e4b5b93d4b5ab98c3c9fcb"><param name="Name" value="PlayerFire"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a4668cb2e52cc5559af82e43aa50be12e"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a42e078c441eed173fba4c321f8fe8d81"><param name="Name" value="bulletEmitterRight"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a3d55b75f6579d5a382d7d3be936e2440"><param name="Name" value="bulletPrefab"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a3d55b75f6579d5a382d7d3be936e2440"><param name="Name" value="EnemyAI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a3f2087c89034eb0c81a9d1a47ee03893"><param name="Name" value="HelicopterFire"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player_fire.html#a11455b5feed5b834980401928627cd04"><param name="Name" value="PlayerFire"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#ac7cac91d115ee6404127ad088971d638"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html"><param name="Name" value="CameraHelicopterSwitch"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html#a370eee91a120e8ef9278994cf445f35d"><param name="Name" value="firstPCamera"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html#a557823ac9663e7a3a60b196541d877d0"><param name="Name" value="overheadCamera"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html#a05883f267919048686e0a7dc676373b3"><param name="Name" value="Start"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html#a5e1eb7940fdd5b41c595a44dbf9ee4fc"><param name="Name" value="thirdPCamera"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html#a112be47103923e45d2e86b6aade0937b"><param name="Name" value="Update"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_switch.html"><param name="Name" value="CameraSwitch"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_switch.html#a95de030883b9f801d8c3859927e4bd9f"><param name="Name" value="overheadCamera"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_switch.html#a0f20586833a0c26dff64929281ace514"><param name="Name" value="Start"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_switch.html#a3546255de7c0589ef21dccc56efe442c"><param name="Name" value="switchCam"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_switch.html#a46ab2388cceef4fe38fbcde4d2c8f3bf"><param name="Name" value="thirdPCamera"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_switch.html#a85330e59866ffe2134bac5f8c8cec4db"><param name="Name" value="Update"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a3bae0ef4862fda793f57127be168a25e"><param name="Name" value="Cannon"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a3bae0ef4862fda793f57127be168a25e"><param name="Name" value="TankController"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a6601a16a322f0c6a9110e1b0af086e0b"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#ad4a27ab52d9c6cf083e92b19b9e35b11"><param name="Name" value="cannonAngle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a62209efcfdd843f014889fcef945f763"><param name="Name" value="CannonFire"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a3be55673f6cb28015bfa59a06f2877b4"><param name="Name" value="CannonRotation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a8830c2a2959d4488edec1539b8069e00"><param name="Name" value="cannonRotationSpeed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a5e5019785625c21d35fe00dfd1302a0f"><param name="Name" value="CannonSpeed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a2c75f2a313e8af2f43bcf47d0f9f65bd"><param name="Name" value="cannonSpeed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#ae3966eda90b6b1ece64b5e1ce8bd8d54"><param name="Name" value="CannonTransform"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a3e5f2f1c2aebbb5720725140621fcafc"><param name="Name" value="Content"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a3e5f2f1c2aebbb5720725140621fcafc"><param name="Name" value="Health"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#acb03c56b3aa15bb05fdf934eae43ef09"><param name="Name" value="HelicopterHealth"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#af1b0f4a5b6a0fa0ea32d93ec42e1be32"><param name="Name" value="currentHealth"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#af1b0f4a5b6a0fa0ea32d93ec42e1be32"><param name="Name" value="EnemyAI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a696aaffdd096aa75da899a8601c05b5b"><param name="Name" value="Health"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#a2326b3ef3f75c0633be993ed4f30ab9e"><param name="Name" value="HelicopterHealth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#ab8927be9c3f88954e3bccd261ed22d17"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a6115a214f496d1711ba529e46fab0de7"><param name="Name" value="DistanceToLookAt"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html"><param name="Name" value="EnemyAI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#ab9b3957d28a9471c642dea883eb895ac"><param name="Name" value="bulletEmitter"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a3d55b75f6579d5a382d7d3be936e2440"><param name="Name" value="bulletPrefab"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#af1b0f4a5b6a0fa0ea32d93ec42e1be32"><param name="Name" value="currentHealth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a6115a214f496d1711ba529e46fab0de7"><param name="Name" value="DistanceToLookAt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a77a8ff4ae735e26eeca427b245b3f3a6"><param name="Name" value="FireAtPlayer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a4cf5a9ab6a8252b26bb79d228f652a31"><param name="Name" value="FireFrequency"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#adf38b842cc92940b2346229a88dc530f"><param name="Name" value="FireSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a03d4495517fafe15b5a4a70710573526"><param name="Name" value="lookAtPlayer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a34f55e339e53b567edaea07c39f65928"><param name="Name" value="maxHealth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#af178a7b50750a13a3b103040703bccc5"><param name="Name" value="OnCollisionEnter"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#ac59f5ecd51771633fe103e48f89705fa"><param name="Name" value="Player"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a60ec0f99ce9b836db624d104f28e140e"><param name="Name" value="playerDistance"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a5eadc405f0f3d73e80cd3b7c4e1b0307"><param name="Name" value="rotationDamping"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#ae3306b8d05e518927ff9065cb4a6b0b6"><param name="Name" value="target"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a914490ed23e56d57769ce86ff36eefb8"><param name="Name" value="timer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#ab8b1e78aae1a489d4d323d5b3c0290e9"><param name="Name" value="Update"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a39123de909abbe793b23ee93d6feea73"><param name="Name" value="fillAmount"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a39123de909abbe793b23ee93d6feea73"><param name="Name" value="Health"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#a229efe7ac36f88518fc80521f7e9a647"><param name="Name" value="HelicopterHealth"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a77a8ff4ae735e26eeca427b245b3f3a6"><param name="Name" value="FireAtPlayer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player_fire.html#a8db1a5592409e878b1642a5e096e8a3d"><param name="Name" value="FireCannon"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a4cf5a9ab6a8252b26bb79d228f652a31"><param name="Name" value="FireFrequency"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a4cf5a9ab6a8252b26bb79d228f652a31"><param name="Name" value="EnemyAI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#af318562b663962c8efe8281cc5990460"><param name="Name" value="HelicopterFire"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#ae18be9625da8b94e40c5d2d3d6f7a090"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a4188a16a039901fbe7143ba99c9cbd3a"><param name="Name" value="FireLeft"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a04eea70768af6e07d3431e985a6dfdac"><param name="Name" value="FireRight"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#adf38b842cc92940b2346229a88dc530f"><param name="Name" value="FireSpeed"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#adf38b842cc92940b2346229a88dc530f"><param name="Name" value="EnemyAI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a9ac8bc3adb1060225a026224984b240c"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html#a370eee91a120e8ef9278994cf445f35d"><param name="Name" value="firstPCamera"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#afeca6dbc1b657fa5d093dade478a43fc"><param name="Name" value="FixedUpdate"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a13a17afea9aa693caa4e560ed7a0ac88"><param name="Name" value="force"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a13a17afea9aa693caa4e560ed7a0ac88"><param name="Name" value="HelicopterFire"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player_fire.html#a5d92c7d5f5f9e3bd4dd029657b2dad38"><param name="Name" value="PlayerFire"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a0e1df8ab121a5b10ebc08c6a138026b2"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a9a4ca17c9df600a7d945e9e7550ae20a"><param name="Name" value="ForwardBackward"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a5f552e7681ee1d9bd55e9a2d8702c6b7"><param name="Name" value="frontBackRatio"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a2a7e7bcbd0a40cd62ce39a1d9b7fdbd6"><param name="Name" value="FrontTurningWheels"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a62122ef13b0879748d03598f92263d3e"><param name="Name" value="FrontWheelMovement"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#af2783a5589201b093465d0082b4ac030"><param name="Name" value="FrontWheelRotation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a4a054177e4d1c45ab360417f28ba8efe"><param name="Name" value="frontWheelRotationSpeed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a9554f212f526597dd7d8c6a25c2452bd"><param name="Name" value="FrontWheels"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#acfa8281d78b729676c358e65a71246cd"><param name="Name" value="HandleBar"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#acfa8281d78b729676c358e65a71246cd"><param name="Name" value="Health"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#aacb6ebcc52eae4b3619ef121a99f2965"><param name="Name" value="HelicopterHealth"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html"><param name="Name" value="Health"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a3e5f2f1c2aebbb5720725140621fcafc"><param name="Name" value="Content"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a696aaffdd096aa75da899a8601c05b5b"><param name="Name" value="currentHealth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a39123de909abbe793b23ee93d6feea73"><param name="Name" value="fillAmount"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#acfa8281d78b729676c358e65a71246cd"><param name="Name" value="HandleBar"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a6f9c0b5de82b7456c9bfa930bf8310d2"><param name="Name" value="healthbar"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a0b7454285608ca99ef5f246d8e9794ce"><param name="Name" value="Map"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#ae70b385af9f1f7d0fbb91cc18f311a20"><param name="Name" value="maxHealth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a6d0b05e55f62a4bdbd0d9049834ec5fe"><param name="Name" value="TakeDamage"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a366b149e3af33a37ec985c861aaa3f6e"><param name="Name" value="Update"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a6f9c0b5de82b7456c9bfa930bf8310d2"><param name="Name" value="healthbar"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a6f9c0b5de82b7456c9bfa930bf8310d2"><param name="Name" value="Health"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#ac9c62f5630e6c211877be616efc21c74"><param name="Name" value="HelicopterHealth"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html"><param name="Name" value="HelicopterController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a8feb3d6979b1a594758a279d93c9e83e"><param name="Name" value="_CurrentRotorSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#ad7ac08cd28ff758f89f9706061f3b8b2"><param name="Name" value="_MaxRotorSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a1114cebca6d6fa24638c27d24564f005"><param name="Name" value="_MinRotorSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a7ecc0f18fabb450103f58830d1eb5d41"><param name="Name" value="_Pitch"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a96c533737e4baa83dda46983b4b2d9f7"><param name="Name" value="_Roll"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a8a60a677ea99af4de7166b24cf99fd64"><param name="Name" value="_RotorSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a04dfa91249db9e09ec4c2deb4d86105a"><param name="Name" value="_Spin"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a4b1e21f3563352fd9dce8c8e0ee34a3f"><param name="Name" value="_ThrottleForce"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a22fa7991924f2715c3377ac1496cf466"><param name="Name" value="AudioCheck"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#ad6ed653255400b78b1cc99081f4f6f94"><param name="Name" value="audioSource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#afeca6dbc1b657fa5d093dade478a43fc"><param name="Name" value="FixedUpdate"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a5aa9447e9d7f1badebb0d6c2c72c59be"><param name="Name" value="HelicopterPitch"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#aeb5d4c8357c8e48c1fd50af1cc9c2790"><param name="Name" value="HelicopterThrottle"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a1aaace9548188cf8be0dff787c0bab8d"><param name="Name" value="MainHelicopter"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a8ed6bf824e63270203a8f4756a15b57c"><param name="Name" value="mainRotor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a059a88d45251caa83834870c9930bc58"><param name="Name" value="rigidbody"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a71abfa0f07d724090cb6778e9c91814b"><param name="Name" value="Start"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#abcbfe74aa9dfb2195a0c7ecdf2c77f20"><param name="Name" value="tailRotor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a191a56070ed2d745b146c44800238950"><param name="Name" value="Update"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html"><param name="Name" value="HelicopterFire"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a553a32843bbad22c73ac3ab9dfb2e302"><param name="Name" value="bulletEmiiterLeft"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a42e078c441eed173fba4c321f8fe8d81"><param name="Name" value="bulletEmitterRight"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a3f2087c89034eb0c81a9d1a47ee03893"><param name="Name" value="bulletPrefab"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#af318562b663962c8efe8281cc5990460"><param name="Name" value="FireFrequency"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a4188a16a039901fbe7143ba99c9cbd3a"><param name="Name" value="FireLeft"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a04eea70768af6e07d3431e985a6dfdac"><param name="Name" value="FireRight"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a13a17afea9aa693caa4e560ed7a0ac88"><param name="Name" value="force"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a5636b50863719e91e536ef200f69bf03"><param name="Name" value="Start"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a1de26546721ecdbc423cac911f8bd76e"><param name="Name" value="timerLeft"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#af2fb016205f7eba7820e02fd486f0ea4"><param name="Name" value="timerRight"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a7d25a2e604508722d7b245d9b27dcfa6"><param name="Name" value="Update"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html"><param name="Name" value="HelicopterHealth"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#acb03c56b3aa15bb05fdf934eae43ef09"><param name="Name" value="Content"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#a2326b3ef3f75c0633be993ed4f30ab9e"><param name="Name" value="currentHealth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#a229efe7ac36f88518fc80521f7e9a647"><param name="Name" value="fillAmount"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#aacb6ebcc52eae4b3619ef121a99f2965"><param name="Name" value="HandleBar"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#ac9c62f5630e6c211877be616efc21c74"><param name="Name" value="healthbar"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#a5dc9b2e847694ce3473636e5cbc0fdfd"><param name="Name" value="Map"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#a2701b74977a7e21ebf5e1030b59d015d"><param name="Name" value="maxHealth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#adfef8e69595ae21c26c95b55c81fbc60"><param name="Name" value="TakeDamage"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#aec78a099c24d063fd3929676adc682cc"><param name="Name" value="Update"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a5aa9447e9d7f1badebb0d6c2c72c59be"><param name="Name" value="HelicopterPitch"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#aeb5d4c8357c8e48c1fd50af1cc9c2790"><param name="Name" value="HelicopterThrottle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#ade42f5bad5020635d955b737c4f8db07"><param name="Name" value="horizontal"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a2c76fb289252ee86979ccbd28cc1d20b"><param name="Name" value="HorizontalWheel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a8a843a1feb8cb778195546716bfdc496"><param name="Name" value="InRange"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#af097767f37734b525d920ef9654947b2"><param name="Name" value="Left_AI_SteeringTransform"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a856df55c9f7858a55769fc522d3abdbc"><param name="Name" value="leftBackWheel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a3fb48529e739e6eae7dc2c783adad8b9"><param name="Name" value="leftFrontWheel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#ae9e741352c2c27a029f0b05861d344f7"><param name="Name" value="LeftRight"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a224cb05000856caed00bf4a254d10fb0"><param name="Name" value="leftSteering"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a03d4495517fafe15b5a4a70710573526"><param name="Name" value="lookAtPlayer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a1aaace9548188cf8be0dff787c0bab8d"><param name="Name" value="MainHelicopter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a8ed6bf824e63270203a8f4756a15b57c"><param name="Name" value="mainRotor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a0b7454285608ca99ef5f246d8e9794ce"><param name="Name" value="Map"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a0b7454285608ca99ef5f246d8e9794ce"><param name="Name" value="Health"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#a5dc9b2e847694ce3473636e5cbc0fdfd"><param name="Name" value="HelicopterHealth"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a34f55e339e53b567edaea07c39f65928"><param name="Name" value="maxHealth"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a34f55e339e53b567edaea07c39f65928"><param name="Name" value="EnemyAI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#ae70b385af9f1f7d0fbb91cc18f311a20"><param name="Name" value="Health"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#a2701b74977a7e21ebf5e1030b59d015d"><param name="Name" value="HelicopterHealth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a41673cb76f648e631178e076b4d63484"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a83eb70576a15918ec1a187e45e7e4f68"><param name="Name" value="maximumCannonRotation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a2842ad27383c59fb420bafc0844a5da4"><param name="Name" value="MaximumLookAtDistance"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#aac2883d6c7764aed065ee95a8eb2a93b"><param name="Name" value="minimumCannonRotation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a31b658f0badf156f1b22d7b5cb75c734"><param name="Name" value="Move"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a77a8f5be72a783c4a81de1e83667c44f"><param name="Name" value="moveSteerRatio"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a41404551b533d7718b786257ea2eb097"><param name="Name" value="MoveTimer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a170c35b379ab85157173764071c045b3"><param name="Name" value="NPC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_bullet.html#a6c1f4680918f6fb4f8020a6d5a1cbef5"><param name="Name" value="OnCollisionEnter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_bullet.html#a6c1f4680918f6fb4f8020a6d5a1cbef5"><param name="Name" value="Bullet"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#af178a7b50750a13a3b103040703bccc5"><param name="Name" value="EnemyAI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_rescue.html#aea84a49b7b3ba474faafba74b1f95400"><param name="Name" value="Rescue"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a8ca9f9c56cce02bff251cbb3a695acbe"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html#a557823ac9663e7a3a60b196541d877d0"><param name="Name" value="overheadCamera"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html#a557823ac9663e7a3a60b196541d877d0"><param name="Name" value="CameraHelicopterSwitch"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_switch.html#a95de030883b9f801d8c3859927e4bd9f"><param name="Name" value="CameraSwitch"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#ac59f5ecd51771633fe103e48f89705fa"><param name="Name" value="Player"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#ac59f5ecd51771633fe103e48f89705fa"><param name="Name" value="EnemyAI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#af9184c5dbf0fe02e14dc44d2e9629c84"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a60ec0f99ce9b836db624d104f28e140e"><param name="Name" value="playerDistance"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a60ec0f99ce9b836db624d104f28e140e"><param name="Name" value="EnemyAI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a6909e159c64032f8276254e7c32d2776"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player_fire.html"><param name="Name" value="PlayerFire"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player_fire.html#ae2d8c0ad25e4b5b93d4b5ab98c3c9fcb"><param name="Name" value="bulletEmitter"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player_fire.html#a11455b5feed5b834980401928627cd04"><param name="Name" value="bulletPrefab"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player_fire.html#a8db1a5592409e878b1642a5e096e8a3d"><param name="Name" value="FireCannon"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player_fire.html#a5d92c7d5f5f9e3bd4dd029657b2dad38"><param name="Name" value="force"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player_fire.html#a5767eece6f6759f09dbf0330a92d0807"><param name="Name" value="target"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player_fire.html#a135598b8d781a7f57db4ab845a756225"><param name="Name" value="Update"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_rescue.html"><param name="Name" value="Rescue"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_rescue.html#aea84a49b7b3ba474faafba74b1f95400"><param name="Name" value="OnCollisionEnter"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_rescue.html#ac4a5879853daf6acf5c644118c83f163"><param name="Name" value="source"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_rescue.html#a4b133fdb5e5955adc364e9f801f1c6d2"><param name="Name" value="Start"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_rescue.html#ae93d73930de075bab96a096ed5b21115"><param name="Name" value="win"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a5b869d1793e3346e8c6a52e04ceaf314"><param name="Name" value="Right_AI_SteeringTransform"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a3becbaaabbfe7ce60e476780769a762e"><param name="Name" value="rightBackWheel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a223568d5e987a89b875bc466a6df899b"><param name="Name" value="rightFrontWheel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a2daf4c46cc36f53a77adb6c17d03ce49"><param name="Name" value="rightSteering"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a059a88d45251caa83834870c9930bc58"><param name="Name" value="rigidbody"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a5eadc405f0f3d73e80cd3b7c4e1b0307"><param name="Name" value="rotationDamping"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a5eadc405f0f3d73e80cd3b7c4e1b0307"><param name="Name" value="EnemyAI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#acef70df326ca30d09eee5326f6f7ba08"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a9a8f354d4d06394a56c5a8299573ae57"><param name="Name" value="RotationSpeed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#aec74bb26717af4d07a552961ebba4f2c"><param name="Name" value="ShootPlayerDistance"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_rescue.html#ac4a5879853daf6acf5c644118c83f163"><param name="Name" value="source"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a544574a93016162b99ab5d431c0d4744"><param name="Name" value="speed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html#a05883f267919048686e0a7dc676373b3"><param name="Name" value="Start"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html#a05883f267919048686e0a7dc676373b3"><param name="Name" value="CameraHelicopterSwitch"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_switch.html#a0f20586833a0c26dff64929281ace514"><param name="Name" value="CameraSwitch"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a71abfa0f07d724090cb6778e9c91814b"><param name="Name" value="HelicopterController"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a5636b50863719e91e536ef200f69bf03"><param name="Name" value="HelicopterFire"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_rescue.html#a4b133fdb5e5955adc364e9f801f1c6d2"><param name="Name" value="Rescue"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a40fcf01f2166770eb38e26e3b00f6aa6"><param name="Name" value="TankController"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a1b39c382a7e0a18429d5bff2832f8163"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#ab86a5370119d1af8e59e99f08a466612"><param name="Name" value="steerAngle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a8dd2ddbf092accff9277f56f3ea70dcb"><param name="Name" value="SteeringLeft"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#abdbc67e25d57523e955252788e8d8fcb"><param name="Name" value="SteeringRight"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#ae14c67f441357ed0749a0c706af0418b"><param name="Name" value="SteeringTransform"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a7d938327df7446d8460fd49621391e3b"><param name="Name" value="steerRotationSpeed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_switch.html#a3546255de7c0589ef21dccc56efe442c"><param name="Name" value="switchCam"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#abcbfe74aa9dfb2195a0c7ecdf2c77f20"><param name="Name" value="tailRotor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a6d0b05e55f62a4bdbd0d9049834ec5fe"><param name="Name" value="TakeDamage"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a6d0b05e55f62a4bdbd0d9049834ec5fe"><param name="Name" value="Health"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#adfef8e69595ae21c26c95b55c81fbc60"><param name="Name" value="HelicopterHealth"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html"><param name="Name" value="TankController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#aafd0c54d415a323ce2fb1f0f5436a3ba"><param name="Name" value="BackWheelMovement"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#ad8969455a0a18ed1d696e877de1b237f"><param name="Name" value="BackWheelRotation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a718f2496ed2ac15c3c7ba0cc0ef147cf"><param name="Name" value="BackWheels"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a3bae0ef4862fda793f57127be168a25e"><param name="Name" value="Cannon"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a3be55673f6cb28015bfa59a06f2877b4"><param name="Name" value="CannonRotation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a5e5019785625c21d35fe00dfd1302a0f"><param name="Name" value="CannonSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a9a4ca17c9df600a7d945e9e7550ae20a"><param name="Name" value="ForwardBackward"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a2a7e7bcbd0a40cd62ce39a1d9b7fdbd6"><param name="Name" value="FrontTurningWheels"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a62122ef13b0879748d03598f92263d3e"><param name="Name" value="FrontWheelMovement"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#af2783a5589201b093465d0082b4ac030"><param name="Name" value="FrontWheelRotation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a9554f212f526597dd7d8c6a25c2452bd"><param name="Name" value="FrontWheels"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#ade42f5bad5020635d955b737c4f8db07"><param name="Name" value="horizontal"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a2c76fb289252ee86979ccbd28cc1d20b"><param name="Name" value="HorizontalWheel"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#ae9e741352c2c27a029f0b05861d344f7"><param name="Name" value="LeftRight"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a9a8f354d4d06394a56c5a8299573ae57"><param name="Name" value="RotationSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a40fcf01f2166770eb38e26e3b00f6aa6"><param name="Name" value="Start"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a8dd2ddbf092accff9277f56f3ea70dcb"><param name="Name" value="SteeringLeft"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#abdbc67e25d57523e955252788e8d8fcb"><param name="Name" value="SteeringRight"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a019c7573302ea38816d747d1068e3732"><param name="Name" value="TankMovement"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a3d80e8f7929fa4466d1a87a0cf130d4b"><param name="Name" value="TankSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#af6fcfce2ce75626e38abcb80f6cd87f6"><param name="Name" value="Turret"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a19671ee462b6f9f93b272f65d5ac7d67"><param name="Name" value="TurretRotation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#ad5f799f87d9266adb30541e80c762d38"><param name="Name" value="Update"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a4c5d705f161c75e2a1f5c7f142fc5d5c"><param name="Name" value="WheelSteering"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html"><param name="Name" value="TankControllerV2"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a7185a0f62972e0693a0633a5209789cf"><param name="Name" value="AI_Speed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#afc362a5b626f78e911be725fe55706e6"><param name="Name" value="backWheelRadius"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a608ee932306e300648a72268a94bec45"><param name="Name" value="backWheelRotationSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a4668cb2e52cc5559af82e43aa50be12e"><param name="Name" value="bulletEmitter"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#ac7cac91d115ee6404127ad088971d638"><param name="Name" value="bulletPrefab"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a6601a16a322f0c6a9110e1b0af086e0b"><param name="Name" value="Cannon"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#ad4a27ab52d9c6cf083e92b19b9e35b11"><param name="Name" value="cannonAngle"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a62209efcfdd843f014889fcef945f763"><param name="Name" value="CannonFire"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a8830c2a2959d4488edec1539b8069e00"><param name="Name" value="cannonRotationSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a2c75f2a313e8af2f43bcf47d0f9f65bd"><param name="Name" value="cannonSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#ae3966eda90b6b1ece64b5e1ce8bd8d54"><param name="Name" value="CannonTransform"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#ab8927be9c3f88954e3bccd261ed22d17"><param name="Name" value="currentHealth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#ae18be9625da8b94e40c5d2d3d6f7a090"><param name="Name" value="FireFrequency"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a9ac8bc3adb1060225a026224984b240c"><param name="Name" value="FireSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a0e1df8ab121a5b10ebc08c6a138026b2"><param name="Name" value="force"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a5f552e7681ee1d9bd55e9a2d8702c6b7"><param name="Name" value="frontBackRatio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a4a054177e4d1c45ab360417f28ba8efe"><param name="Name" value="frontWheelRotationSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a8a843a1feb8cb778195546716bfdc496"><param name="Name" value="InRange"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#af097767f37734b525d920ef9654947b2"><param name="Name" value="Left_AI_SteeringTransform"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a856df55c9f7858a55769fc522d3abdbc"><param name="Name" value="leftBackWheel"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a3fb48529e739e6eae7dc2c783adad8b9"><param name="Name" value="leftFrontWheel"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a224cb05000856caed00bf4a254d10fb0"><param name="Name" value="leftSteering"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a41673cb76f648e631178e076b4d63484"><param name="Name" value="maxHealth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a83eb70576a15918ec1a187e45e7e4f68"><param name="Name" value="maximumCannonRotation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a2842ad27383c59fb420bafc0844a5da4"><param name="Name" value="MaximumLookAtDistance"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#aac2883d6c7764aed065ee95a8eb2a93b"><param name="Name" value="minimumCannonRotation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a31b658f0badf156f1b22d7b5cb75c734"><param name="Name" value="Move"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a77a8f5be72a783c4a81de1e83667c44f"><param name="Name" value="moveSteerRatio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a41404551b533d7718b786257ea2eb097"><param name="Name" value="MoveTimer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a170c35b379ab85157173764071c045b3"><param name="Name" value="NPC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a8ca9f9c56cce02bff251cbb3a695acbe"><param name="Name" value="OnCollisionEnter"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#af9184c5dbf0fe02e14dc44d2e9629c84"><param name="Name" value="Player"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a6909e159c64032f8276254e7c32d2776"><param name="Name" value="playerDistance"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a5b869d1793e3346e8c6a52e04ceaf314"><param name="Name" value="Right_AI_SteeringTransform"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a3becbaaabbfe7ce60e476780769a762e"><param name="Name" value="rightBackWheel"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a223568d5e987a89b875bc466a6df899b"><param name="Name" value="rightFrontWheel"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a2daf4c46cc36f53a77adb6c17d03ce49"><param name="Name" value="rightSteering"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#acef70df326ca30d09eee5326f6f7ba08"><param name="Name" value="rotationDamping"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#aec74bb26717af4d07a552961ebba4f2c"><param name="Name" value="ShootPlayerDistance"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a544574a93016162b99ab5d431c0d4744"><param name="Name" value="speed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a1b39c382a7e0a18429d5bff2832f8163"><param name="Name" value="Start"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#ab86a5370119d1af8e59e99f08a466612"><param name="Name" value="steerAngle"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#ae14c67f441357ed0749a0c706af0418b"><param name="Name" value="SteeringTransform"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a7d938327df7446d8460fd49621391e3b"><param name="Name" value="steerRotationSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#aec03651343bf15b104b0672bd46e66b1"><param name="Name" value="TankMovement"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a16de11b19c5d7b1ced3656f9e1a60c37"><param name="Name" value="target"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#aae3bfac23c65eb99d469cfb1394c6e7f"><param name="Name" value="timer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a05aaef88f94eb9cb51e4c48b5e851ec2"><param name="Name" value="Turret"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#afdc004be20d179c4987a49f4a3d50783"><param name="Name" value="TurretRotation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#afe0ff036784fd3fe1218985518c722b8"><param name="Name" value="turretSpeed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a2b89b9a0368bb90656b15c8a0914dbbb"><param name="Name" value="Update"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a019c7573302ea38816d747d1068e3732"><param name="Name" value="TankMovement"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a019c7573302ea38816d747d1068e3732"><param name="Name" value="TankController"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#aec03651343bf15b104b0672bd46e66b1"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a3d80e8f7929fa4466d1a87a0cf130d4b"><param name="Name" value="TankSpeed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#ae3306b8d05e518927ff9065cb4a6b0b6"><param name="Name" value="target"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#ae3306b8d05e518927ff9065cb4a6b0b6"><param name="Name" value="EnemyAI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player_fire.html#a5767eece6f6759f09dbf0330a92d0807"><param name="Name" value="PlayerFire"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a16de11b19c5d7b1ced3656f9e1a60c37"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html#a5e1eb7940fdd5b41c595a44dbf9ee4fc"><param name="Name" value="thirdPCamera"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html#a5e1eb7940fdd5b41c595a44dbf9ee4fc"><param name="Name" value="CameraHelicopterSwitch"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_switch.html#a46ab2388cceef4fe38fbcde4d2c8f3bf"><param name="Name" value="CameraSwitch"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a914490ed23e56d57769ce86ff36eefb8"><param name="Name" value="timer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#a914490ed23e56d57769ce86ff36eefb8"><param name="Name" value="EnemyAI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#aae3bfac23c65eb99d469cfb1394c6e7f"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a1de26546721ecdbc423cac911f8bd76e"><param name="Name" value="timerLeft"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#af2fb016205f7eba7820e02fd486f0ea4"><param name="Name" value="timerRight"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#af6fcfce2ce75626e38abcb80f6cd87f6"><param name="Name" value="Turret"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#af6fcfce2ce75626e38abcb80f6cd87f6"><param name="Name" value="TankController"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a05aaef88f94eb9cb51e4c48b5e851ec2"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a19671ee462b6f9f93b272f65d5ac7d67"><param name="Name" value="TurretRotation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a19671ee462b6f9f93b272f65d5ac7d67"><param name="Name" value="TankController"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#afdc004be20d179c4987a49f4a3d50783"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#afe0ff036784fd3fe1218985518c722b8"><param name="Name" value="turretSpeed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html#a112be47103923e45d2e86b6aade0937b"><param name="Name" value="Update"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_helicopter_switch.html#a112be47103923e45d2e86b6aade0937b"><param name="Name" value="CameraHelicopterSwitch"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_switch.html#a85330e59866ffe2134bac5f8c8cec4db"><param name="Name" value="CameraSwitch"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_enemy_a_i.html#ab8b1e78aae1a489d4d323d5b3c0290e9"><param name="Name" value="EnemyAI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_health.html#a366b149e3af33a37ec985c861aaa3f6e"><param name="Name" value="Health"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_controller.html#a191a56070ed2d745b146c44800238950"><param name="Name" value="HelicopterController"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_fire.html#a7d25a2e604508722d7b245d9b27dcfa6"><param name="Name" value="HelicopterFire"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_helicopter_health.html#aec78a099c24d063fd3929676adc682cc"><param name="Name" value="HelicopterHealth"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player_fire.html#a135598b8d781a7f57db4ab845a756225"><param name="Name" value="PlayerFire"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#ad5f799f87d9266adb30541e80c762d38"><param name="Name" value="TankController"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller_v2.html#a2b89b9a0368bb90656b15c8a0914dbbb"><param name="Name" value="TankControllerV2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_tank_controller.html#a4c5d705f161c75e2a1f5c7f142fc5d5c"><param name="Name" value="WheelSteering"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_rescue.html#ae93d73930de075bab96a096ed5b21115"><param name="Name" value="win"></OBJECT>
+</UL>
+</BODY>
+</HTML>

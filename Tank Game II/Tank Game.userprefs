@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Bullet.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CameraSwitch.cs" Line="8" Column="9" />
+      <File FileName="Assets\Scripts\EnemyAI.cs" Line="62" Column="4" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="106" Column="37" />
+      <File FileName="Assets\Scripts\PlayerFire.cs" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\Bullet.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\Health.cs" Line="24" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

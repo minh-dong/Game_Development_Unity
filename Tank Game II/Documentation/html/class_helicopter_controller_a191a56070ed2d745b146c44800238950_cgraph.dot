@@ -1,0 +1,9 @@
+digraph "HelicopterController.Update"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node9 [label="HelicopterController.Update",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node9 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="HelicopterController.Helicopter\lThrottle",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_helicopter_controller.html#aeb5d4c8357c8e48c1fd50af1cc9c2790",tooltip="Determine how much force to add to the throttle for up and down arrow keys "];
+}

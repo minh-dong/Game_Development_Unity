@@ -1,0 +1,8 @@
+digraph "TankController"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node2 [label="{TankController\n|+ SteeringLeft\l+ SteeringRight\l+ TankSpeed\l+ RotationSpeed\l+ CannonSpeed\l+ FrontWheelRotation\l+ BackWheelRotation\l+ horizontal\l- Turret\l- Cannon\l- FrontWheels\l- BackWheels\l- FrontTurningWheels\l|- Start()\l- Update()\l- HorizontalWheel()\l- FrontWheelMovement()\l- WheelSteering()\l- BackWheelMovement()\l- CannonRotation()\l- TurretRotation()\l- TankMovement()\l- ForwardBackward()\l- LeftRight()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{MonoBehaviour\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

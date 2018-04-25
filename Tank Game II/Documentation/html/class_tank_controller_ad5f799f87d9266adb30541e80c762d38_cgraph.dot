@@ -1,0 +1,25 @@
+digraph "TankController.Update"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node30 [label="TankController.Update",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node30 -> Node31 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node31 [label="TankController.Horizontal\lWheel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_tank_controller.html#a2c76fb289252ee86979ccbd28cc1d20b",tooltip="The front wheels will go either rotate left or right by 45 degrees. "];
+  Node30 -> Node32 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node32 [label="TankController.WheelSteering",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_tank_controller.html#a4c5d705f161c75e2a1f5c7f142fc5d5c",tooltip="The steering for left or right to determine how far it should also rotate. "];
+  Node30 -> Node33 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node33 [label="TankController.FrontWheel\lMovement",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_tank_controller.html#a62122ef13b0879748d03598f92263d3e",tooltip="The Front wheels should rotate forward/backward and should rotate with an angle of maxiumum of 45 to ..."];
+  Node30 -> Node34 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node34 [label="TankController.BackWheel\lMovement",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_tank_controller.html#aafd0c54d415a323ce2fb1f0f5436a3ba",tooltip="The back wheels should rotate and also accelerate/decelerate the tank "];
+  Node30 -> Node35 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node35 [label="TankController.CannonRotation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_tank_controller.html#a3be55673f6cb28015bfa59a06f2877b4",tooltip="How far the cannon should rotate up and to its rest position. Max for up position is vertical (90 deg..."];
+  Node30 -> Node36 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node36 [label="TankController.TurretRotation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_tank_controller.html#a19671ee462b6f9f93b272f65d5ac7d67",tooltip="Will rotate the turret left or right when the user press left or right arrow keys ..."];
+  Node30 -> Node37 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node37 [label="TankController.TankMovement",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_tank_controller.html#a019c7573302ea38816d747d1068e3732",tooltip="This is called in the update function. All funcitonality is done here for the tank movement like movi..."];
+  Node37 -> Node38 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node38 [label="TankController.ForwardBackward",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_tank_controller.html#a9a4ca17c9df600a7d945e9e7550ae20a",tooltip="When the W or S key is pressed, the tank will move forward or backward respectively ..."];
+  Node37 -> Node39 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node39 [label="TankController.LeftRight",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_tank_controller.html#ae9e741352c2c27a029f0b05861d344f7",tooltip="When the A or D key is pressed, the tank will move left or right respectively "];
+}

@@ -1,0 +1,11 @@
+digraph "Health.Update"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node10 [label="Health.Update",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="Health.HandleBar",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_health.html#acfa8281d78b729676c358e65a71246cd",tooltip="Will get the fill amount for the health bar to determine its mapping and will update accordingly ..."];
+  Node11 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="Health.Map",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_health.html#a0b7454285608ca99ef5f246d8e9794ce",tooltip="Calculations to determine the 0 to 1 Unity asset and will calculate if it is greater than 1..."];
+}

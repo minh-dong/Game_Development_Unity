@@ -1,0 +1,3 @@
+<map id="Bullet.OnCollisionEnter" name="Bullet.OnCollisionEnter">
+<area shape="rect" id="node2" href="$class_health.html#a6d0b05e55f62a4bdbd0d9049834ec5fe" title="Whenever the player takes damage, the health will go down. " alt="" coords="209,5,348,32"/>
+</map>

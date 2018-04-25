@@ -1,0 +1,4 @@
+<map id="PlayerController.LeftRight" name="PlayerController.LeftRight">
+<area shape="rect" id="node2" href="$class_player_controller.html#ac771a3f53f48dff5ba164fbb3c55a8d5" title="This is called in the update function. All funcitonality is done here for the tank movement like movi..." alt="" coords="223,5,428,32"/>
+<area shape="rect" id="node3" href="$class_player_controller.html#ae8bc83dffb99867a04be016473ed2c43" title="Update is called once per frame " alt="" coords="476,5,635,32"/>
+</map>

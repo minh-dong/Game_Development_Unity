@@ -1,0 +1,11 @@
+digraph "HelicopterHealth.Update"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node11 [label="HelicopterHealth.Update",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node11 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="HelicopterHealth.HandleBar",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_helicopter_health.html#aacb6ebcc52eae4b3619ef121a99f2965",tooltip="Will get the fill amount for the health bar to determine its mapping and will update accordingly ..."];
+  Node12 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="HelicopterHealth.Map",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_helicopter_health.html#a5dc9b2e847694ce3473636e5cbc0fdfd",tooltip="Calculations to determine the 0 to 1 Unity asset and will calculate if it is greater than 1..."];
+}

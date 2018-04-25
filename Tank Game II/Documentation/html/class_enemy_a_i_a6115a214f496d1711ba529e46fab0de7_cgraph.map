@@ -1,0 +1,4 @@
+<map id="EnemyAI.DistanceToLookAt" name="EnemyAI.DistanceToLookAt">
+<area shape="rect" id="node2" href="$class_enemy_a_i.html#a03d4495517fafe15b5a4a70710573526" title="Extensive math problem here ti determine the player position and enemy position. " alt="" coords="239,5,392,32"/>
+<area shape="rect" id="node3" href="$class_enemy_a_i.html#a77a8ff4ae735e26eeca427b245b3f3a6" title="Fire at the player " alt="" coords="240,56,391,83"/>
+</map>

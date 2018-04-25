@@ -1,0 +1,8 @@
+digraph "TankControllerV2"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node2 [label="{TankControllerV2\n|+ leftSteering\l+ rightSteering\l+ leftFrontWheel\l+ rightFrontWheel\l+ leftBackWheel\l+ rightBackWheel\l+ Cannon\l+ Turret\l+ Player\l+ bulletPrefab\l+ bulletEmitter\l+ force\l+ maxHealth\l+ currentHealth\l- speed\l- backWheelRadius\l- frontBackRatio\l- moveSteerRatio\l- backWheelRotationSpeed\l- frontWheelRotationSpeed\l- steerAngle\l- steerRotationSpeed\l- turretSpeed\l- cannonSpeed\land 16 more...\l|- Start()\l- Update()\l- OnCollisionEnter()\l- Move()\l- TankMovement()\l- TurretRotation()\l- CannonTransform()\l- CannonFire()\l- SteeringTransform()\l- Left_AI_SteeringTransform()\l- Right_AI_SteeringTransform()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{MonoBehaviour\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

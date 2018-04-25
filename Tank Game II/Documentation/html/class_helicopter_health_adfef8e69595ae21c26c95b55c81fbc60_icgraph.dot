@@ -1,0 +1,9 @@
+digraph "HelicopterHealth.TakeDamage"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node9 [label="HelicopterHealth.TakeDamage",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="Bullet.OnCollisionEnter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bullet.html#a6c1f4680918f6fb4f8020a6d5a1cbef5",tooltip="When there is a collision detection from the enemy bullet to the player&#39;s tank. If it collides with e..."];
+}

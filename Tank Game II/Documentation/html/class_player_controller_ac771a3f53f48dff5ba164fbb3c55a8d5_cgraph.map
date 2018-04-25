@@ -1,0 +1,4 @@
+<map id="PlayerController.TankMovement" name="PlayerController.TankMovement">
+<area shape="rect" id="node2" href="$class_player_controller.html#a802aa560ac8b1a7803bf44c9d36e953c" title="When the W or S key is pressed, the tank will move forward or backward respectively ..." alt="" coords="261,5,425,47"/>
+<area shape="rect" id="node3" href="$class_player_controller.html#a58e7ebe34f1cf684b7ee617bc33e42b4" title="When the A or D key is pressed, the tank will move left or right respectively " alt="" coords="259,71,428,98"/>
+</map>
