@@ -1,0 +1,6 @@
+<map id="P1_Base.Program.Main" name="P1_Base.Program.Main">
+<area shape="rect" id="node2" href="$class_p1___base_1_1_program.html#a6cba04d5f64d8ad7499d2a9d77c9e354" title="The factorization will find the prime numbers, place it in the list and repeat until factorization ca..." alt="" coords="213,5,420,32"/>
+<area shape="rect" id="node3" href="$class_p1___base_1_1_program.html#a51f50d29d1ec3f8abe68afa296a33ba6" title="The comomn factors will be found when two numbers are input into this " alt="" coords="242,56,391,83"/>
+<area shape="rect" id="node4" href="$class_p1___base_1_1_program.html#a5763277a3c1e11487b89b36e49e305c2" title="The greatest common demonitor (GCD) will take in the numbers and will find the GCD value..." alt="" coords="237,107,397,133"/>
+<area shape="rect" id="node5" href="$class_p1___base_1_1_program.html#ae7808ecbffe81c067a54647b1752cd7c" title="The least common denominator (LCD) will take in the numbers and will find the LCD value..." alt="" coords="238,157,395,184"/>
+</map>
