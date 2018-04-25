@@ -1,0 +1,4 @@
+<map id="EnemyAI.lookAtPlayer" name="EnemyAI.lookAtPlayer">
+<area shape="rect" id="node2" href="$class_enemy_a_i.html#a6115a214f496d1711ba529e46fab0de7" title="Determine a function of how far the enemy looks at the player (distance), and when to shoot at the pl..." alt="" coords="207,5,392,32"/>
+<area shape="rect" id="node3" href="$class_enemy_a_i.html#ab8b1e78aae1a489d4d323d5b3c0290e9" title="Update every per frame. Only function in here is the DistanceToLookAt. " alt="" coords="440,5,560,32"/>
+</map>

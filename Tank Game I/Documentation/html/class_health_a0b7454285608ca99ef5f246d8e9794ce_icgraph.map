@@ -1,0 +1,4 @@
+<map id="Health.Map" name="Health.Map">
+<area shape="rect" id="node2" href="$class_health.html#acfa8281d78b729676c358e65a71246cd" title="Will get the fill amount for the health bar to determine its mapping and will update accordingly ..." alt="" coords="141,5,264,32"/>
+<area shape="rect" id="node3" href="$class_health.html#a366b149e3af33a37ec985c861aaa3f6e" title="Update once per frame to update the HandleBar " alt="" coords="312,5,416,32"/>
+</map>

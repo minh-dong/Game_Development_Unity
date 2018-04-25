@@ -1,0 +1,4 @@
+<map id="Health.Update" name="Health.Update">
+<area shape="rect" id="node2" href="$class_health.html#acfa8281d78b729676c358e65a71246cd" title="Will get the fill amount for the health bar to determine its mapping and will update accordingly ..." alt="" coords="157,5,280,32"/>
+<area shape="rect" id="node3" href="$class_health.html#a0b7454285608ca99ef5f246d8e9794ce" title="Calculations to determine the 0 to 1 Unity asset and will calculate if it is greater than 1..." alt="" coords="328,5,416,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="EnemyAI.Update" name="EnemyAI.Update">
+<area shape="rect" id="node2" href="$class_enemy_a_i.html#a6115a214f496d1711ba529e46fab0de7" title="Determine a function of how far the enemy looks at the player (distance), and when to shoot at the pl..." alt="" coords="173,31,359,57"/>
+<area shape="rect" id="node3" href="$class_enemy_a_i.html#a03d4495517fafe15b5a4a70710573526" title="Extensive math problem here ti determine the player position and enemy position. " alt="" coords="407,5,560,32"/>
+<area shape="rect" id="node4" href="$class_enemy_a_i.html#a77a8ff4ae735e26eeca427b245b3f3a6" title="Fire at the player " alt="" coords="408,56,559,83"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="PlayerFire.Update" name="PlayerFire.Update">
+<area shape="rect" id="node2" href="$class_player_fire.html#a8db1a5592409e878b1642a5e096e8a3d" title="When the player presses the spacebar, fire the cannon. " alt="" coords="180,5,331,32"/>
+</map>
